@@ -1,9 +1,9 @@
 ---
 title: 'Acerca de nosotros'
-weight: 2
-background: ''
-button: 'Conocenos'
-buttonLink: 'team'
+weight: 3
+background: 'images/dna.jpg'
+button: 'Conócenos'
+buttonLink: 'nosotros'
 ---
 
-Somo un equipo de tres desempleados con motivación
+Somos un equipo de expertos en las áreas de bioinformática, genómica funcional, genómica poblacional, epigenética, entre otras.
